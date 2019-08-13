@@ -1,0 +1,58 @@
+
+body {
+    background-color:#ededed;
+}
+#image_nav_area {
+  width : 100%;
+  padding-top: 10px;
+  margin-left:10px;
+}
+#images img {
+  width : 50%;
+}
+.descriptions_content {
+  padding: 10px;
+  background-color:white;
+}
+
+.description-content div {
+  padding-bottom: 30px;
+  background-color:white;
+}
+
+.descriptions_content img {width: 25%}
+
+#images_visualizations img {
+  width: 100%;
+}
+
+h3 {
+  color: #78C2AD;
+  font-weight: bold;
+
+}
+.comparison-page h3{
+   margin-top: 15px
+}
+h5 {
+  color: #78C2AD;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+
+.brightness {
+    background-color: white;
+    display: inline-block;
+
+}
+.brightness img:hover {
+    opacity: .5;
+}
+
+
+
+.comparison-image{
+  height: 100%;
+  width:100%
+}
